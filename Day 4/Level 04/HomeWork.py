@@ -46,4 +46,6 @@ birthyear = 2010
 current_year = 2024
 year_past = current_year - birthyear
 
+# მე შევქმენი ცვლადები და მივანიჭე ჩემი დაბადების წლის და ახლანდელი წლის მნიშვნელობა  
+
 print("ჩემი დაბადების დღიდან გავიდა " + str(year_past) + " " + "წელი")
