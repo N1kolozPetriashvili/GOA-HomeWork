@@ -34,8 +34,3 @@ hobby2 = input("ჰობი: ")
 print("მე მქვია " + name + " " + surname + ' ' + "და ჩემი მშობლები არიან " + name1 + " " + surname1 + ' ' + 'და' + name2 + " " + surname2 + ' ' + ". ჩემი ჰობები არის " + hobby + " "+ hobby1 + " "+ hobby2)
 
 print("-------------------------")
-
-num1 = int(input('რიცხვი: '))
-
-print(num1 //)
-print(num1 %)
