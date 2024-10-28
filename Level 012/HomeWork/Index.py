@@ -30,10 +30,8 @@ for i in range(num):
 
 print('----------')
 
-password = 1234
-password1 = input("password: ")
-
-while password != password1:
-    password1 = input("try again: ")
-    if password == password1:
-        print("welcome")
+password = "SecretWord"
+guess = input("password: ")
+while guess != password:  
+  guess = input("password: ") 
+print("Access Granted")
