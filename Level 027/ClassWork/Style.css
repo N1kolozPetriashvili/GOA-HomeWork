@@ -1,0 +1,14 @@
+       body {
+            background-color: rgb(0, 0, 0);
+        }
+
+        #id {
+            background-color: #2b2b2b;
+            padding: 20px;
+            color: hsla(0, 100%, 100%, 0.5);
+        }
+
+        .class1 {
+            font-size: 30px;
+            color: hsla(0, 100%, 100%, 0.5);
+        }
