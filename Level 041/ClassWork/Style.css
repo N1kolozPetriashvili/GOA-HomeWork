@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: cursive;
+    padding: 10px;
+}
+
+#link:link {
+    color: blue
+}
+
+#visited:visited {
+    color: rgb(75, 168, 168);
+}
+
+#active:active {
+    color: brown;
+}
+
+#hover:hover {
+    color: black;
+}
+
+a {
+    text-decoration: none;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th {
+    text-align: start;
+}
+
+tr:first-child {
+    background-color: blueviolet;
+    color: white;
+    border-style: dotted;
+}
+
+tr:nth-child(even) {
+    background-color: antiquewhite;
+    border-style: dotted;
+}
+
+tr:nth-child(3) {
+    background-color: white;
+    border-style: dotted;
+}

@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url("./assets/lomi.png");
+    background-size: cover;
+
+    background-repeat: no-repeat;
+    font-family: "DM Serif Text", serif;
+}
+
+.text-container{
+    background-image: url("./assets/lomi2.png");
+    background-size: cover;
+    color: tomato;
+    text-align: center;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    border: 4px solid black;
+}
